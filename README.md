@@ -1,4 +1,8 @@
+![nikel-_online-video-cutter com_](https://github.com/danibenfica/Projeto-Nikel/assets/103818625/2660950c-97b1-4a3c-a62a-da70e50fc42f)
+
 # Projeto Nikel
+
+[Link do projeto online aqui!](https://projeto-nikel.vercel.app/)
 
 ## Visão Geral
 O Projeto Nikel é uma aplicação web que permite aos usuários controlar suas finanças pessoais. Com o Nikel, os usuários podem registrar transações de entrada e saída de dinheiro, visualizar um resumo financeiro, acompanhar o histórico de transações e definir metas de economia.
